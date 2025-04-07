@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520302672666",
+    "project_id": "demoecommerceapp-1be07",
+    "storage_bucket": "demoecommerceapp-1be07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520302672666:android:7d2250e64a8f7c34590aa3",
+        "android_client_info": {
+          "package_name": "com.mayzan.demoecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu45l7QQZiOLZT4OKbBp8ZZW6HDGexG60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

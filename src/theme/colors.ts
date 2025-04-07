@@ -1,0 +1,17 @@
+export const colors = {
+  primary: '#ED1C24',
+  border_primary: '#AFAFAF',
+  border_secondary: '#202020',
+  text_primary: '#202020',
+  text_secondary: '#7C7C7C',
+  text_white: '#F1F1F1',
+  plain_white: '#FFFFFF',
+  dark_bg: '#202020',
+  dark_border_primary: '#343434',
+  dark_text_secondary: '#AFAFAF',
+  surface_primary: '#FFFFFF',
+  surface_secondary: '#F1F1F1',
+  icon_bg_primary: '#F2D498',
+  icon_bg_secondary: '#343434',
+  successGreen: '#5cb85c',
+};

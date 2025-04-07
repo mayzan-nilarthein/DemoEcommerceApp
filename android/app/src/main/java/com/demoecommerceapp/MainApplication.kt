@@ -1,4 +1,4 @@
-package com.demoecommerceapp
+package com.mayzan.demoecommerceapp
 
 import android.app.Application
 import com.facebook.react.PackageList

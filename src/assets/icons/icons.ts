@@ -1,0 +1,20 @@
+export const icons = {
+    tab_home_filled : require('../icons/tab_home_filled.png'),
+    tab_home: require('../icons/tab_home.png'),
+    tab_product_filled: require('../icons/tab_product_filled.png'),
+    tab_product: require('../icons/tab_product.png'),
+    tab_profile_filled: require('../icons/tab_profile_filled.png'),
+    tab_profile: require('../icons/tab_profile.png'),
+    add: require('../icons/add.png'),
+    added: require('../icons/selected.png'),
+    sun_lightmode: require('../icons/sunny_light.png'),
+    moon_lightmode: require('../icons/moon_light.png'),
+    sun_darkmode: require('../icons/sunny_dark.png'),
+    moon_darkmode: require('../icons/moon_dark.png'),
+    history_light: require('../icons/history_light.png'),
+    history_dark: require('../icons/history_dark.png'),
+    logout_dark: require('../icons/login_dark.png'),
+    logout_light: require('../icons/logout_light.png'),
+    login_dark : require('../icons/login_dark.png'),
+    login_light: require('../icons/login_light.png')
+}
