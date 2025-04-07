@@ -32,7 +32,7 @@ const Login = () => {
   };
 
   return (
-    <View style={{justifyContent: 'flex-start',  alignItems: 'center', flex:1, paddingTop: 10, gap: 10}}>
+    <View style={{justifyContent: 'flex-start',  alignItems: 'center', flex:1, paddingTop: 50, gap: 10}}>
       <StatusBar barStyle={isDarkMode? 'light-content': 'dark-content'} backgroundColor={themeColors.surface_primary} />
       <Text style={{fontSize: 18, fontWeight: 'bold'}}>Login</Text>
       <TextInput style={{width: sizes.width*0.9, backgroundColor: colors.plain_white}} placeholder="Username" value={username} onChangeText={setUsername} />
